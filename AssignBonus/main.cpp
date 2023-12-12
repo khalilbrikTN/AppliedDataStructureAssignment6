@@ -4,7 +4,13 @@
 using namespace std;
 
 int main() {
-    string file_reference = "/home/khalil/Desktop/courses/applied_data_structures/AssignBonus/Sample.txt";
+    /*
+     * *********************************************************************************************************
+    //Please note that you have to put the absolute refrence to the text file which should be different than mine.
+    * *********************************************************************************************************
+    */
+
+    string file_reference = "/home/khalil/Desktop/courses/applied_data_structures/AppliedDataStructureAssignment8/AssignBonus/Sample.txt";
     Graphs gh;
 
     gh.getGraph(file_reference);

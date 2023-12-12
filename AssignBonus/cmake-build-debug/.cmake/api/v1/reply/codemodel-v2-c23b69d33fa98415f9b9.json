@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/khalil/Desktop/courses/applied_data_structures/AssignBonus/cmake-build-debug",
-		"source" : "/home/khalil/Desktop/courses/applied_data_structures/AssignBonus"
+		"build" : "/home/khalil/Desktop/courses/applied_data_structures/AppliedDataStructureAssignment8/AssignBonus/cmake-build-debug",
+		"source" : "/home/khalil/Desktop/courses/applied_data_structures/AppliedDataStructureAssignment8/AssignBonus"
 	},
 	"version" : 
 	{
