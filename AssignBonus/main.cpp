@@ -1,6 +1,11 @@
 #include <iostream>
 #include "Graphs.h"
 
+
+//Mohamed Khalil Brik
+//900225905
+// -> contact me at : mohamedkhalil.brik@aucegypt.edu
+
 using namespace std;
 
 int main() {
@@ -26,7 +31,7 @@ int main() {
     cout << "\nShortest paths from vertex " << char('A' + sourceVertex) << ":\n";
     gh.shPath(sourceVertex);
 
-    // Optionally, you can display the shortest path to a specific vertex
+    //display the shortest path to a specific vertex
     int destinationVertex = 3; // Replace with your desired destination vertex
     cout << "\nShortest path from " << char('A' + sourceVertex) << " to " << char('A' + destinationVertex) << ":\n";
     gh.printPath(sourceVertex, destinationVertex);
